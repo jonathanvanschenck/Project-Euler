@@ -1,7 +1,7 @@
 """
 
 
-Created By: Jonathan D. B. Van Schenck
+Created By: Jonathan D. B. Van Schenck & Nicole Quist
 
 Method:
 
